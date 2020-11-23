@@ -13,7 +13,7 @@ import {
 const { Header, Content, Footer, Sider } = Layout;
 const { SubMenu } = Menu;
 
-import "../style/index.less";
+// import "../style/index.less";
 
 export default function Home() {
   const version = useDeno(() => {
